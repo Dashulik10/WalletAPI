@@ -1,6 +1,20 @@
-# Название проекта
+# WalletAPI
 
-Описание вашего проекта: что он делает, для чего он нужен.
+✅ User registration with password hashing
+
+✅ Basic Authentication for protected endpoints
+
+✅ Fund account (deposit money)
+
+✅ Pay another user
+
+✅ Check your balance
+
+✅ See your transaction history
+
+✅ Add products to a global catalog
+
+✅ Buy products using wallet balance
 
 ---
 
